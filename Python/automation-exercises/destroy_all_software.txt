@@ -1,0 +1,105 @@
+
+Season 1 (18 episodes)
+TitleCategoryLength
+Statistics Over Git RepositoriesGit14:26
+How and Why to Avoid NilLanguage Features13:58
+Building RSpec From ScratchTDD14:47
+Source Code History IntegrityGit14:38
+Extracting Domain ObjectsCoupling18:30
+Conflicting PrinciplesDesign & OO12:17
+Growing a Test SuiteTDD13:37
+Processes and JobsUnix15:11
+Exceptions and Control FlowLanguage Features10:59
+Fast Tests With and Without RailsRails15:49
+Git WorkflowGit11:49
+Packaging in Ruby and PythonPython15:43
+File Navigation in VimEditors10:22
+Extracting Objects in DjangoPython15:07
+Quick and Easy Perf TestsTypes of Tests13:14
+A Refactoring StoryDesign & OO12:35
+Wrapping Third Party APIsRails17:20
+Clarity via Isolated TestsTest Isolation10:08
+Buy Season 1 ($40) →
+Season 2 (18 episodes)
+TitleCategoryLength
+Composing a Unix Command LineUnix8:56
+Tar, Fork, and the Tar PipeUnix12:07
+Coupling and AbstractionCoupling9:38
+Test Isolation and RefactoringTest Isolation13:05
+Spiking and Continuous SpikingUntested Code9:39
+Notes on StubbingStubs & Mocks9:00
+Controller Refactoring Demo Part 1Rails Controllers10:09
+Controller Refactoring Demo Part 2Rails Controllers16:29
+Extracting From Controller to ModelRails Controllers13:15
+Acceptance TestsTypes of Tests11:12
+Extracting From ModelsRails14:55
+Some Vim TipsEditors14:11
+History Spelunking With UnixGit11:54
+Performance of Different Test SizesTypes of Tests10:49
+Simple Bash Script TestingThe Unix Shell11:47
+Splitting Into Fine Grained TestsTDD9:12
+Which Tests to WriteTypes of Tests10:17
+TDDing Spikes Away With RebaseUntested Code10:33
+Buy Season 2 ($40) →
+Season 3 (18 episodes)
+TitleCategoryLength
+What Goes in Active RecordsRails: Active Record13:07
+What Goes in Active Records Part 2Rails: Active Record10:18
+Outside-in TDD: Stubs vs. StashStubs & Mocks12:56
+Web Apps: When to Test in IsolationTest Isolation9:52
+Untested Code Part 1: IntroductionUntested Code11:07
+Untested Code Part 2: Adding TestsUntested Code18:39
+Untested Code Part 3: Refactoring 1Untested Code15:37
+Untested Code Part 4: Refactoring 2Untested Code17:33
+Emacs, Chainsaw of ChainsawsEditors10:49
+Stubbing Unloaded DependenciesStubs & Mocks11:00
+Brittle and Fragile TestsTDD9:56
+Repository Statistics in RaptorGit11:10
+Generating Coupons With BashThe Unix Shell11:54
+Shorter Class SyntaxLanguage Features8:00
+When to Generalize in TDDTDD10:53
+The .vimrcEditors10:50
+Pushing Complexity DownDesign & OO10:01
+Three Test ShapesTypes of Tests11:24
+Buy Season 3 ($40) →
+Season 4 (18 episodes)
+TitleCategoryLength
+Sucks/Rocks 1: The Rails AppBuilding An App From Scratch9:14
+Sucks/Rocks 2: Computing ScoresBuilding An App From Scratch11:57
+Sucks/Rocks 3: The Search EngineBuilding An App From Scratch11:26
+Sucks/Rocks 4: CachingBuilding An App From Scratch13:42
+Sucks/Rocks 5: a Bug and a ModelBuilding An App From Scratch12:54
+Sucks/Rocks 6: a ControllerBuilding An App From Scratch11:12
+Sucks/Rocks 7: More CucumberBuilding An App From Scratch11:55
+Sucks/Rocks 8: The Whole DesignBuilding An App From Scratch10:38
+Pretty Git LogsGit10:16
+Mutation in Tell Don't AskDesign & OO8:53
+A Magical Isolation StoryTest Isolation10:15
+Ugly Tests Trigger RefactoringTDD10:59
+The Mock Obsession ProblemStubs & Mocks12:09
+Test Driving Shell ScriptsThe Unix Shell11:05
+Conditional Whac-A-MoleDesign & OO13:29
+Time to First RequestUnix11:50
+Test Isolation Without MocksTest Isolation12:34
+Functional Core, Imperative ShellProgramming Paradigms13:02
+Buy Season 4 ($40) →
+Season 5 (18 episodes)
+TitleCategoryLength
+Collapsing Services Into ValuesRails11:10
+Splitting Active Record ModelsRails: Active Record10:36
+Removing a Rubinius FeatureLanguage Features11:39
+Python vs. Ruby ObjectsPython8:55
+Where Correctness Is EnforcedRails9:32
+Separating Arrangement and WorkCoupling10:51
+Primitive ObsessionDesign & OO15:48
+Isolating by Separating ValueTest Isolation11:05
+Imperative to OO to FunctionalProgramming Paradigms13:21
+Debugging With TestsTDD9:46
+Test Cases vs. ExamplesTypes of Tests13:59
+A Bit of CUnix11:02
+Analyzing Context SwitchesUnix11:46
+Actor Syntax From ScratchLanguage Features14:36
+Running Tests AsynchronouslyUnix8:17
+Test RecommendationsTDD16:21
+When Rails Is RightRails10:46
+A Day in The LifeJunk Drawer13:06
