@@ -1,0 +1,9 @@
+SET a 1
+GET a
+BEGIN
+SET a 2
+GET a
+SET a 3
+GET a
+ROLLBACK
+GET a
