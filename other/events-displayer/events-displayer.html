@@ -1,0 +1,29 @@
+<head>
+  <title>Events</title>
+</head>
+
+<body>
+  <div class="container">
+    <header>
+      <h1>Events</h1>
+    </header>
+
+    <form class="new-events">
+      <input type="text" name="text" placeholder="Copy and paste your data here." />
+    </form>
+
+    <ul>
+      {{#each events}}
+        {{> event }}
+      {{/each}}
+    </ul>
+  </div>
+</body>
+
+<template name="event">
+  <li>
+    <div class="{{#if cancelled}}cancelled{{/if}} {{#if past_date}}past_date{{/if}} unit size1of5">{{display_date}} </div>
+    <div class="{{#if cancelled}}cancelled{{/if}} {{#if past_date}}past_date{{/if}} unit size3of5">{{occasion}}</div> 
+    <div class="{{#if cancelled}}cancelled{{/if}} {{#if past_date}}past_date{{/if}} unit size1of5">{{invited_count}} invited</div>
+  </li>
+</template>
