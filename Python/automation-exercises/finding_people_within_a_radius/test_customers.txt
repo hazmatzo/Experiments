@@ -1,0 +1,6 @@
+{"latitude": "53.792248", "longitude": "-6.238808", "name": "Co. Louth, Ireland - 31.38 miles", "user_id": 1}
+{"latitude": "54.595356", "longitude": "-5.051125", "name": "Middle of the Ocean - 99.79 miles", "user_id": 2}
+{"latitude": "54.595356", "longitude": "-4.993125", "name": "Middle of the Ocean - 100.973 miles", "user_id": 3}
+{"latitude": "54.999183", "longitude": "-7.309071", "name": "LondonDerry - 122.47 miles - 196.9 km", "user_id": 4}
+{"latitude": "0", "longitude": "0", "name": "Gulf of Guinea - 3702.75 miles", "user_id": 5}
+{"latitude": "-180", "longitude": "-90", "name": "Location does not exist", "user_id": 6}
